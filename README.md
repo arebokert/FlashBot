@@ -6,7 +6,9 @@ The purpose of this project is to make a package combining the capabilities of p
 
 ## Requirements
 HTMLUnit
+
 Jsoup
+
 slf4j
 
 ## License
