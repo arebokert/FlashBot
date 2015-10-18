@@ -11,5 +11,7 @@ Jsoup
 
 slf4j
 
+pircbotx
+
 ## License
 This software is licensed under GNU GPL v2.
